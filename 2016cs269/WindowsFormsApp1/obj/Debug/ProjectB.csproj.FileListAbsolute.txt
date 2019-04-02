@@ -1,0 +1,46 @@
+E:\smester6\dbms_lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjectB.csprojAssemblyReference.cache
+E:\smester6\dbms_lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+E:\smester6\dbms_lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\smester6\dbms_lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjectB.csproj.GenerateResource.cache
+E:\smester6\dbms_lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjectB.csproj.CoreCompileInputs.cache
+E:\smester6\dbms_lab\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\smester6\dbms_lab\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\smester6\dbms_lab\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\smester6\dbms_lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\smester6\dbms_lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\smester6\dbms_lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Assessment_Component.resources
+E:\smester6\dbms_lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CLOMenuForm.resources
+E:\smester6\dbms_lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RubricMenuForm.resources
+E:\smester6\dbms_lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentMenuForm.resources
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjectB.csprojAssemblyReference.cache
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CLOMenuForm.resources
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RubricMenuForm.resources
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentMenuForm.resources
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Assessment_Component.resources
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjectB.csproj.GenerateResource.cache
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ProjectB.csproj.CoreCompileInputs.cache
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\adnan\Desktop\bisma pawbi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\adnan\Desktop\bisma pawbi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\adnan\Desktop\bisma pawbi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\adnan\Desktop\bisma pawbi\WindowsFormsApp1\obj\Debug\ProjectB.csprojAssemblyReference.cache
+C:\Users\adnan\Desktop\bisma pawbi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CLOMenuForm.resources
+C:\Users\adnan\Desktop\bisma pawbi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RubricMenuForm.resources
+C:\Users\adnan\Desktop\bisma pawbi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StudentMenuForm.resources
+C:\Users\adnan\Desktop\bisma pawbi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Assessment_Component.resources
+C:\Users\adnan\Desktop\bisma pawbi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+C:\Users\adnan\Desktop\bisma pawbi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\adnan\Desktop\bisma pawbi\WindowsFormsApp1\obj\Debug\ProjectB.csproj.GenerateResource.cache
+C:\Users\adnan\Desktop\bisma pawbi\WindowsFormsApp1\obj\Debug\ProjectB.csproj.CoreCompileInputs.cache
+C:\Users\adnan\Desktop\bisma pawbi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\adnan\Desktop\bisma pawbi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\adnan\Desktop\bisma pawbi\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+C:\Users\adnan\Desktop\bisma pawbi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Rubric_Level.resources
+C:\Users\adnan\Desktop\bisma pawbi\WindowsFormsApp1\obj\Debug\ProjectB.csproj.CopyComplete
+C:\Users\adnan\Desktop\bisma pawbi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Assessment.resources
